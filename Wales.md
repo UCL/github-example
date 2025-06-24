@@ -1,5 +1,9 @@
 Mountains In Wales
 ==================
 
+* Pen y Fan
 * Tryfan
-* Yr Wyddfa
+* Snowdon
+* Glyder Fawr
+* Fan y Big
+* Cadair Idris
